@@ -1,4 +1,4 @@
-# Hi, I'm Siyao Zhou 👋
+# Hi, I'm Siyao 👋
 
 Master's student in Informatics at the Technical University of Munich (TUM).
 
